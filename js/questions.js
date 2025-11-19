@@ -19,9 +19,9 @@ let questions = [
   },
   {
     numb: 4,
-    question: "Which operator is used for exponentiation in Python?",
-    answer: "",
-    options: ["^", "", "exp()", "power()"],
+    question: "What is the correct keyword to define a loop in Python?",
+    answer: "for",
+    options: ["loop", "iterate", "for", "repeat"],
   },
   {
     numb: 5,
@@ -31,9 +31,14 @@ let questions = [
   },
   {
     numb: 6,
-    question: "Which symbol is used to write comments in Python?",
-    answer: "#",
-    options: ["*", "#", "/* */", "<!-- -->"],
+    question: "What does the len() function do in Python?",
+    answer: "Returns length",
+    options: [
+      "Returns type",
+      "Returns length",
+      "Returns size in bytes",
+      "Returns index",
+    ],
   },
   {
     numb: 7,
